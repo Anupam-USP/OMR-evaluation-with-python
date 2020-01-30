@@ -1,2 +1,2 @@
 # OMR-evaluation-with-python
-OMR Sheet evaluation with Python libraries like Numpy, Matplotlib, Imutils.
+OMR Sheet evaluation with Python libraries like Numpy, OpenCV, Imutils.
