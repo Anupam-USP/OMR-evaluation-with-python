@@ -5,6 +5,8 @@ import imutils
 import cv2
  
 #taking path of image so that image can be used
+#You can add any path here!!
+
 image_path=input("input the image path here:")
 # define the answer key which maps the question number to the correct answer
 ANSWER_KEY = {0: 1, 1: 4, 2: 0, 3: 3, 4: 1}
